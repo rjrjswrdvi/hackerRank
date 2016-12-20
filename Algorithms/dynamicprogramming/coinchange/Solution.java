@@ -53,7 +53,7 @@ Sample Output #02
 
 5
  */
-package coinchange;
+
 
 import java.io.*;
 import java.util.*;
