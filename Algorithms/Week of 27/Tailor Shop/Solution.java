@@ -24,7 +24,7 @@ public class Solution {
 		// your code goes here
 
 		int t;
-		int ct =0;
+		long ct =0;
 		for(int a_i=0; a_i < n; a_i++){
 			a[a_i] = in.nextInt();
 
